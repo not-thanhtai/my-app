@@ -1,0 +1,28 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./images/product-chain-1.png",
+      "title": "Front End",
+      "description": "Proficiency in the fundamental principles of design, such as layout, color theory, typography, and visual hierarchy."
+    },
+    {
+      "id": "2",
+      "src": "./images/tag-1.png",
+      "title": "Back End",
+      "description": "Proficiency in the fundamental principles of design, such as layout, color theory, typography, and visual hierarchy."
+    },
+    {
+      "id": "3",
+      "src": "./images/feather-pen-2.png",
+      "title": "UI & UX Design",
+      "description": "Proficiency in the fundamental principles of design, such as layout, color theory, typography, and visual hierarchy."
+    },
+    {
+      "id": "1",
+      "src": "./images/feather-pen-1.png",
+      "title": "Webflow Development",
+      "description": "Proficiency in the fundamental principles of design, such as layout, color theory, typography, and visual hierarchy."
+    }
+  ]
+}

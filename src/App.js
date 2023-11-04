@@ -5,11 +5,14 @@ import AboutMePage from './components/AboutMePage';
 import ContactPage from './components/ContactPage';
 import HomePage from './components/HomePage';
 import PortfolioPage from './components/PortfolioPage';
+import NavBar from './features/NavBar';
 
 function App() {
   return (
     <div className="App">
+      <NavBar/>
       <Route path='/' component={HomePage}/>
+      {/* <Route path='*' component={PageNotFound}/> */}
       <Route path='/about' component={AboutMePage}/>
       <Route path='/portfolio' component={PortfolioPage}/>
       <Route path='/contact' component={ContactPage}/>
