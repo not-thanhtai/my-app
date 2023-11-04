@@ -3,26 +3,26 @@
     {
       "id": "1",
       "src": "./images/product-chain-1.png",
-      "title": "Front End",
-      "description": "Proficiency in the fundamental principles of design, such as layout, color theory, typography, and visual hierarchy."
+      "title": "ReactJS",
+      "description": "Proficient in developing dynamic and responsive user interfaces using React.js, leveraging its component-based architecture to create scalable and interactive web applications."
     },
     {
       "id": "2",
       "src": "./images/tag-1.png",
-      "title": "Back End",
-      "description": "Proficiency in the fundamental principles of design, such as layout, color theory, typography, and visual hierarchy."
+      "title": "React Native",
+      "description": "Skilled in building cross-platform mobile applications using React Native, ensuring seamless user experiences on both iOS and Android platforms with a single, efficient codebase."
     },
     {
       "id": "3",
       "src": "./images/feather-pen-2.png",
-      "title": "UI & UX Design",
-      "description": "Proficiency in the fundamental principles of design, such as layout, color theory, typography, and visual hierarchy."
+      "title": "C/C++",
+      "description": "Familiar with the fundamentals of C/C++ programming, with a basic understanding of data structures, algorithms, and problem-solving."
     },
     {
       "id": "1",
       "src": "./images/feather-pen-1.png",
-      "title": "Webflow Development",
-      "description": "Proficiency in the fundamental principles of design, such as layout, color theory, typography, and visual hierarchy."
+      "title": "UI & UX Design",
+      "description": "Basic understanding of UI/UX design principles, including layout, color theory, and typography. Eager to learn and improve my skills in creating user-friendly interfaces and enhancing user experiences."
     }
   ]
 }
