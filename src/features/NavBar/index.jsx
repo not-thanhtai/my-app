@@ -35,8 +35,8 @@ const NavBar = (props) => {
 
   return (
     <nav className={`navbar ${navActive ? "active" : ""}`}>
-      <div>
-        <img src="./img/logo.svg" alt="Logo" />
+      <div className="logo--text">
+        <p>not-thanhtai</p>
       </div>
       <div className={`navbar--items ${navActive ? "active" : ""}`}>
         <ul>

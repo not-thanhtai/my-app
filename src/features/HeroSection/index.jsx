@@ -17,7 +17,7 @@ const HeroSection = () =>{
         <button className="btn btn-primary">Get in touch</button>
       </div> 
       <div className="hero--section--img">
-        <img src="./public/logo512.png" alt="Hero Section"/>
+        <img src={require("../../assets/images/Avatar_Background_Removed.png")} alt="Hero Section"/>
       </div>
     </section>
   )
