@@ -43,7 +43,7 @@ const NavBar = (props) => {
           <li>
             <Link
               onClick={closeMenu}
-              activeClass="navbar--active-content"
+              activeClass="navbar--active--content"
               spy={true}
               smooth={true}
               offset={-70}
@@ -57,7 +57,7 @@ const NavBar = (props) => {
           <li>
             <Link
               onClick={closeMenu}
-              activeClass="navbar--active-content"
+              activeClass="navbar--active--content"
               spy={true}
               smooth={true}
               offset={-70}
@@ -71,7 +71,7 @@ const NavBar = (props) => {
           <li>
             <Link
               onClick={closeMenu}
-              activeClass="navbar--active-content"
+              activeClass="navbar--active--content"
               spy={true}
               smooth={true}
               offset={-70}
@@ -85,7 +85,7 @@ const NavBar = (props) => {
           <li>
             <Link
               onClick={closeMenu}
-              activeClass="navbar--active-content"
+              activeClass="navbar--active--content"
               spy={true}
               smooth={true}
               offset={-70}
@@ -100,7 +100,7 @@ const NavBar = (props) => {
       </div>
       <Link
         onClick={closeMenu}
-        activeClass="navbar--active-content"
+        activeClass="navbar--active--content"
         spy={true}
         smooth={true}
         offset={-70}

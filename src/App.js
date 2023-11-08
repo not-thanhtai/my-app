@@ -6,6 +6,7 @@ import ContactPage from './components/ContactPage';
 import HomePage from './components/HomePage';
 import PortfolioPage from './components/PortfolioPage';
 import NavBar from './features/NavBar';
+import Footer from "./features/Footer";
 
 function App() {
   return (
@@ -16,8 +17,8 @@ function App() {
       <Route path='/about' component={AboutMePage}/>
       <Route path='/portfolio' component={PortfolioPage}/>
       <Route path='/contact' component={ContactPage}/>
+      <Footer/>
     </div>
   );
 }
-
 export default App;
