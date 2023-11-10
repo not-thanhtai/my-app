@@ -1,17 +1,15 @@
-import React from 'react';
-import PropTypes from 'prop-types';
+import React, {useState} from 'react';
 import NavBar from '../../features/NavBar';
-import HeroSection from '../../features/HeroSection';
 import MySkills from '../../features/MySkills'
-HomePage.propTypes = {
-  
-};
+import IntroSection from "../../features/IntroSection";
+import ScrollToTopButton from "../../features/ScrollToTopButton";
 
 function HomePage(props) {
+
   return (
     <div>
-      <HeroSection/>
-      <MySkills/>
+      <IntroSection/>
+        <MySkills/>
     </div>
   );
 }
