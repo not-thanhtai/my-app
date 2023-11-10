@@ -1,10 +1,18 @@
 // Skills Section Styles
+.portfolio--container {
+  padding: 32px;
+  border-bottom: 1px solid black;
+}
+.section--title {
+  justify-content: center;
+  align-items: center;
+}
 .skills--section {
   display: flex;
   padding: 149.33px 85.33px;
   flex-direction: column;
   justify-content: center;
-  align-items: flex-start;
+  align-items: center;
   gap: 106.667px;
 }
 .skills--section--heading {
